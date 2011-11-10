@@ -3,7 +3,7 @@ require 'resque'
 require './computer_worker'
 
 # class ComputerWorker
-#   @queue = :computer
+#   @queue = :compute
 # end
 
 class Computer
